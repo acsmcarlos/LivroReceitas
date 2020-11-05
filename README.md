@@ -7,3 +7,4 @@ Olá! Seja bem vindo ao meu livro de receitas.
 - strogonoff 
 - Pavê
 - Feijoada vegana
+- Carne de Sol
