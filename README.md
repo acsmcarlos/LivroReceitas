@@ -8,3 +8,4 @@ Olá! Seja bem vindo ao meu livro de receitas.
 - Pavê
 - Feijoada vegana
 - Carne de Sol
+- Peixada
