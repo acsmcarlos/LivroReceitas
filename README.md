@@ -2,10 +2,8 @@
 
 Olá! Seja bem vindo ao meu livro de receitas.
 
-
-
-- strogonoff 
-- Pavê
-- Feijoada vegana
-- Carne de Sol
-- Peixada
+- Peixada,
+- Strogonoff, 
+- Pavê,
+- Feijoada vegana,
+- Carne de Sol,
